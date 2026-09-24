@@ -1,0 +1,6 @@
+{
+  "name": "GarageStudio - Spotify to GarageBand Stem DAW",
+  "description": "Transforme qualquer link do Spotify ou áudio em projeto multitrack estilo GarageBand com faixas isoladas, edição de pistas, instrumentos virtuais, mixer e equalizador avançado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
